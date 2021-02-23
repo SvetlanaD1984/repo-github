@@ -1,0 +1,19 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "davletbaeva webserver",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+      },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvetlanaD1984/repo-github.git"
+  },
+  "author": "Svetlana D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SvetlanaD1984/repo-github/issues"
+  },
+  "homepage": "https://github.com/SvetlanaD1984/repo-github#readme"
+}
